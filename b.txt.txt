@@ -3,5 +3,7 @@
    git remote add LearnGitC https://github.com/tco2019/LearnGitC
 3. git remote -v show https://github.com/tco2019/Nvidia_Learn
    hat funktioniert.
+4. git remote
+   wechselt auf LearnGitC
 
 
