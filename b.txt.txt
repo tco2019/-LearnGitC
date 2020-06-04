@@ -9,5 +9,16 @@
 git Repository auf github.com anlegen - z.B.: Projekt
 git remote add origin https://github.com/<user>/Projekt
 git push --set-upstream origin master
-
-
+6,
+echo "# -LearnGitC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:tco2019/-LearnGitC.git
+git push -u origin master
+7,
+git remote add origin git@github.com:tco2019/-LearnGitC.git
+git push -u origin master
+8. ich nehme den Punkt 7.
+    
+ 
