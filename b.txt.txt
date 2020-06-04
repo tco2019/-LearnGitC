@@ -1,0 +1,4 @@
+1. -
+2. git remote add repo https://github.com/repo ausprobieren
+   git remote add LearnGitC https://github.com/tco2019/LearnGitC
+
