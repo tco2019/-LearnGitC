@@ -5,5 +5,9 @@
    hat funktioniert.
 4. git remote
    wechselt auf LearnGitC
+5,
+git Repository auf github.com anlegen - z.B.: Projekt
+git remote add origin https://github.com/<user>/Projekt
+git push --set-upstream origin master
 
 
