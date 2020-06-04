@@ -1,4 +1,7 @@
 1. -
 2. git remote add repo https://github.com/repo ausprobieren
    git remote add LearnGitC https://github.com/tco2019/LearnGitC
+3. git remote -v show https://github.com/tco2019/Nvidia_Learn
+   hat funktioniert.
+
 
